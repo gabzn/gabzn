@@ -2,9 +2,9 @@
 
 ## I'm a Senior student majoring in Computer Science.
 
-- 🔭 I'm looking for an internship righw now
-- 🌱 I have experiences in both data science and backend development
-- 👯 I’m also open to collaborate with others
+- 🔭 I'm currently looking for an internship.
+- 🌱 I have experiences in both data science and backend development.
+- 👯 I’m also open to collaborate with others.
 
 <br />
 
