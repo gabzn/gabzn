@@ -1,4 +1,4 @@
-### Hi there, I'm Gabriel 👋 
+# Hi there, I'm Gabriel 👋 
 
 ## I'm a Senior student majoring in Computer Science.
 
