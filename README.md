@@ -3,8 +3,8 @@
 ## I'm a Senior student majoring in Computer Science.
 
 - 🔭 I'm currently looking for an internship.
-- 🌱 I have experiences in both data science and backend development.
-- 👯 I’m also open to collaborate with others.
+- 🌱 I have experiences in both data science and full-stack development.
+- 👯 I’m also open to collaborate with others for any projects.
 
 ### Languages and Tools:
 
