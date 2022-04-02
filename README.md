@@ -26,7 +26,7 @@
 ### Best Way to Connect with Me:
 
 [<img align="left" alt="gabzh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="gabzh | Website" width="22px" src="https://github.com/Templarian/MaterialDesign/blob/master/svg/web.svg" />][website]
+[<img align="left" alt="gabzh | Website" width="22px" src="https://github.com/amitjakhu/dripicons/blob/master/SVG/web.svg" />][website]
 
 
 [linkedin]: https://linkedin.com/in/gabrielzhen
