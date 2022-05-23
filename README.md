@@ -2,7 +2,7 @@
 
 ## I'm a Senior student majoring in Computer Science.
 
-- 🔭 I'm currently looking for an internship.
+- 🔭 I am currently looking into deep learning and hope to build a personal project based on it.
 - 🌱 I have experiences in both data science and full-stack development.
 - 👯 I’m also open to collaborate with others for any projects.
 
