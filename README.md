@@ -1,9 +1,9 @@
 # Hi there, I'm Gabriel 👋 
 
-## I'm a graduate student majoring in Computer Science.
+## I am pursuing my Master of Engineering degree at Cornell University, and major in Computer Science.
 
-- 🔭 I am currently looking into deep learning and hope to build a personal project based on it.
-- 🌱 I have experiences in both data science and full-stack development.
+- 🔭 I am currently interning at Fordham University as a graduate researcher.
+- 🌱 I have experiences in both data science and software development.
 - 👯 I’m also open to collaborate with others for any projects.
 
 ### Languages and Tools:
