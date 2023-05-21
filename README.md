@@ -1,6 +1,6 @@
 # Hi there, I'm Gabriel 👋 
 
-## I am pursuing my Master of Engineering degree at Cornell University, and major in Computer Science.
+## I am pursuing my Master of Engineering degree in Computer Science at Cornell University.
 
 - 🔭 I am currently interning at Fordham University as a graduate researcher.
 - 🌱 I have experiences in both data science and software development.
