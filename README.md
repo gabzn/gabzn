@@ -2,9 +2,7 @@
 
 ## I am pursuing my Master of Engineering degree in Computer Science at Cornell University.
 
-- 🔭 I am actively looking for SWE position starting in summer 2024.
-- 🌱 I have experiences in both data science and software development.
-- 👯 I’m also open to collaborate with others for any projects.
+- 🔭 I am actively looking for SWE position in New York.
 
 ### Languages and Tools:
 
