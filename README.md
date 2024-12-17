@@ -1,6 +1,6 @@
 # Hi there, I'm Gabriel 👋 
 
-## I am pursuing my Master of Engineering degree in Computer Science at Cornell University.
+## I am currently working as a Software Engineer at one of the FANNG.
 
 - 🔭 I am actively looking for SWE position in New York.
 
