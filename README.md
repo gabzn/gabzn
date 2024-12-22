@@ -1,6 +1,6 @@
 # Hi there, I'm Gabriel 👋 
 
-## I am currently working as a Software Engineer at one of the FANNG.
+## I am currently working as a Software Engineer at one of the FAANG/MAANG.
 
 - 🔭 I am actively looking for SWE position in New York.
 
