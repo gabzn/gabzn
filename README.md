@@ -2,7 +2,7 @@
 
 ## I am currently working as a Software Engineer at one of the FAANG/MAANG.
 
-- 🔭 I am actively looking for SWE position in New York.
+- 🔭 I am actively looking for a SWE position in NYC.
 
 ### I am proficient in the following programming languages:
 
